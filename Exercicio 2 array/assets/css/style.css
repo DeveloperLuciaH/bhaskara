@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    font-family:sans-serif;
+    }
+
+form {
+    margin: 30px;
+}    
+
+h2{
+
+    margin: 100px;
+}
+
+.btn{
+    margin-top: 50px;
+}
