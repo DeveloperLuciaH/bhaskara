@@ -65,7 +65,7 @@ $dados->ResultadoDelta = $delta->delta_ret;
 # -------------------------------------------
 //setando valores para calc x1 e x2
 $xs->a_vlr = $dados->a;
-$xs->b_vlr = - $dados->b;
+$xs->b_vlr = $dados->b;
 $xs->delta_vlr = $dados->ResultadoDelta;
 //seta os métodos para exibir os resultado
 $xs->calc_x1();
